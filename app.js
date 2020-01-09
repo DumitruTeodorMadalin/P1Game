@@ -77,6 +77,4 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
 // function btn() {
 //    //Fa ceva aici!Test1
 // }
-// btn();
-//SOMETHING
-//after interv
+
