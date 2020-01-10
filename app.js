@@ -75,6 +75,6 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
 //console.log(x);
 
 // function btn() {
-//    //Fa ceva aici!Test1
+//    //change it
 // }
 
