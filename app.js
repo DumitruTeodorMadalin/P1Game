@@ -75,6 +75,6 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
 //console.log(x);
 
 // function btn() {
-//    //change it 1
+//    //change
 // }
 
