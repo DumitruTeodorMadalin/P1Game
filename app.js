@@ -64,7 +64,7 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
 
 
 
-      //4 check if player won the game
+      //4 check if player won the games
 });
 
 
