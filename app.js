@@ -72,7 +72,7 @@ document.querySelector('.btn-hold').addEventListener('click', function() {
 //document.querySelector('#current-' + activePlayer).textContent = dice;
 
 //var x = document.querySelector('#score-0').textContent;
-//console.log(x);
+//console
 
 // function btn() {
 //    //
